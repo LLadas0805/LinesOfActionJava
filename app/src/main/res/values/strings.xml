@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Linesofaction</string>
+    <string name="welcome_title">Welcome to Lines of Action!</string>
+    <string name="save_title">Please enter a valid file name for saving this game</string>
+    <string name="save_button">Save File</string>
+    <string name="new_game_title">New Game</string>
+    <string name="load_game_title">Load Game</string>
+    <string name="serialization_caption">Please select a save state</string>
+    <string name="quit_title">Quit</string>
+</resources>
